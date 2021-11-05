@@ -1,0 +1,1 @@
+/home/emanuel/Testes/xenomai3/kernel/cobalt/include/ipipe/thread_info.h

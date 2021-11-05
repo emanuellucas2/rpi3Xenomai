@@ -1,0 +1,1 @@
+/home/emanuel/Testes/xenomai3/kernel/drivers/analogy/national_instruments/ni_670x.c
